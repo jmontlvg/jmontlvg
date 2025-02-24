@@ -1,22 +1,31 @@
-## Hello world👋, I'm Jackeline Montalvo <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlsMmZkZm10cm9vemhnMXF6Mnd6cHMwbW9hMnpodGJid3U3MmlnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6NWhok7zPvkexoIhrY/giphy.gif" height="120">
-
-# 💫 About me 
-
+## Hello world, I'm Jackeline Montalvo 👋
+**Junior Fullstack Developer** | Developing responsive web apps with frontend and backend technologies
+# 🚀 About me 
 > Transforming challenges into opportunities, one line of code at a time
-
+<!--
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlsMmZkZm10cm9vemhnMXF6Mnd6cHMwbW9hMnpodGJid3U3MmlnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6NWhok7zPvkexoIhrY/giphy.gif" height="150">
+</div>
+-->
+<!-- 
 <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW95bWp1MXdobnFncW0yZWtvOXJ3bjVkenYzOWFhNDJ1M2ZucTBpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" height="300" style="margin-right: 20px; border-radius: 10px;">
-
-<p align="justify"> I'm a Jr. Fullstack Developer, and before entering the world of development, I studied Biomedical Engineering 🦾. I pursued a master's degree in Mechatronics Engineering to expand my knowledge and understand how automation and robotics can enhance healthcare solutions. During this journey, I discovered my passion for programming, which opened up new opportunities for me to explore how technology can improve different areas.</p>
-
-<p align="justify">My curiosity for programming grew 💡, leading me to pursue a diploma in Data Science and AI. I became fascinated by analyzing data, finding patterns, and understanding how information behaves, which later drove me to focus on web development.</p>
-
-<p align="justify">My most recent achievement is completing a Fullstack Development bootcamp, where I had the great opportunity to collaborate on a project, applying both my technical skills and the SCRUM methodology. This experience gave me a holistic understanding of projects and further developed my ability to work efficiently within a team 🤝.</p>
-
-<p align="justify">I’m truly a self-driven person who loves to learn, and my goal is to become a senior fullstack developer 🚀 where I can apply my knowledge of web development and data science. Programming and web development are a key part of my interests, and I’m eager to continue developing my skills and contributing to tech projects.</p>
+-->
 
 <div align="center">
-<img src="https://media.giphy.com/media/3BBv1D4AFbJkY/giphy.gif?cid=790b7611nsu3jl1ma9ghbqtewq34zgim87af6io166ri9ez0&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="300" style="margin-right: 20px; border-radius: 10px;">
+<img src="https://media.giphy.com/media/3BBv1D4AFbJkY/giphy.gif?cid=790b7611nsu3jl1ma9ghbqtewq34zgim87af6io166ri9ez0&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="150">
 </div>
+
+### 👩🏽‍💻 Journey into Tech
+My journey into tech started with a strong interest in problem-solving and development. I pursued **Biomedical Engineering** and later a **Master’s in Mechatronics**, driven by a fascination with how automation and robotics can revolutionize healthcare. Along the way, I discovered programming, and it drew me in. It opened up a world of possibilities, and I knew I wanted to go further.
+
+### 🔍 Curiosity for Programming
+My curiosity for programming kept growing, leading me to pursue a **diploma in Data Science and AI**. I became deeply interested in analyzing data, uncovering patterns, and understanding how information flows. This eventually sparked my interest in web development, where I could combine logic, creativity, and user-focused solutions.
+
+### 🏅 Biggest Milestone
+My biggest milestone so far has been completing a **Java Fullstack Development bootcamp**, where I worked on a project that combined frontend and backend technologies using the SCRUM methodology. This experience strengthened both my technical expertise and power skills, such as effective communication and teamwork.
+
+### 🎯 Goals and Interests
+I’m a self-driven individual who loves to continuously learn. Programming and web development are at the core of my interests, and I’m excited to keep growing my skills and contributing to innovative tech projects.
 
 # 💼 Skills and Technologies
 
